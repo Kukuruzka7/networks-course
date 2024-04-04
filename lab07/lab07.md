@@ -142,7 +142,7 @@ Time-Sequence-Graph (Stevens) (Статистика => График TCP пото
 
 #### Демонстрация работы
 
-todo
+![](./img/client-server.png)
 
 ### В. Вывод в формате ping (2 балла)
 
