@@ -156,7 +156,7 @@ Time-Sequence-Graph (Stevens) (Статистика => График TCP пото
 
 #### Демонстрация работы
 
-todo
+![](./img/ping.png)
 
 ### Г. UDP Heartbeat (4 балла)
 
