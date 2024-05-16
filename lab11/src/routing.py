@@ -150,4 +150,4 @@ if __name__ == "__main__":
         t.start()
 
     time.sleep(2)
-    # routers[0].update_neighbour(1, 5)
+    routers[0].update_neighbour(1, 0)
